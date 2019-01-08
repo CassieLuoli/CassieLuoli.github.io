@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="102px" viewBox="0 0 102 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mail" transform="translate(1.000000, 1.000000)">
+            <circle id="Oval" stroke="#FFFFFF" cx="50" cy="50" r="50"></circle>
+            <path d="M49.4988973,53 C45.1915859,53 23,36.0448182 23,36.0448182 L23,34.1818182 C23,31.8734545 24.9761142,30 27.4153801,30 L71.5824144,30 C74.0238858,30 76,31.8734545 76,34.1818182 L75.9647122,36.2727273 C75.9647122,36.2727273 54.0135242,53 49.4988973,53 Z M49.4988973,58.0535714 C54.2208397,58.0535714 75.9647122,42 75.9647122,42 L76,66.8571429 C76,69.144 74.0238858,71 71.5824144,71 L27.4153801,71 C24.9783197,71 23,69.144 23,66.8571429 L23.0352878,42 C23.0330823,42 45.1915859,58.0535714 49.4988973,58.0535714 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
